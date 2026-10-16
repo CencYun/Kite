@@ -105,7 +105,7 @@
     "package": "opencode-ai",
     "command": "npm install -g opencode-ai@latest",
     "uninstallCommand": "npm uninstall -g opencode-ai",
-    "latestVersion": "1.19.1"
+    "latestVersion": "1.19.3"
   },
   "paths": {
     "cacheRoot": "/workspace/.kf/cache/resources/kite.opencode",
